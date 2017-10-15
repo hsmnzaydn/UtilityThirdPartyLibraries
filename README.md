@@ -5,8 +5,6 @@ This repo contains utility android third party libraries for android developers
 <h3>Architure</h3>
 <ul>
 	<li><a href="https://github.com/greenrobot/EventBus"><b>Eventbus</b></a>:Transfered object activity to activity</li>
-
-	<li></li>
 </ul>
 
 <h3>Button</h3>
