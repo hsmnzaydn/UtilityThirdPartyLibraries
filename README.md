@@ -21,5 +21,12 @@ This repo contains utility android third party libraries for android developers
 
 </ul>
 
+<h3>Android Studio Plugins</h3>
+<ul>
+	<li><b>Android Drawable Importer</b>:
+Convert added images to appropriate dimensions</li>
+</ul>
+
+
 
 </html>
