@@ -21,6 +21,12 @@ This repo contains utility android third party libraries for android developers
 
 </ul>
 
+<h3>Managing Image</h3>
+<ul>
+
+<li><a href="https://github.com/facebook/fresco"><b>Fresco</b></a>:An Android library for managing images and the memory they use </li>
+</ul>
+
 <h3>Android Studio Plugins</h3>
 <ul>
 	<li><b>Android Drawable Importer</b>:
