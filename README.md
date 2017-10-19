@@ -33,6 +33,15 @@ This repo contains utility android third party libraries for android developers
 Convert added images to appropriate dimensions</li>
 </ul>
 
+<h3>Network Libraries</h3>
+
+<ul>
+<li><a href="https://github.com/square/retrofit"><b>Retrofit</b></a>:Useful and fast http library</li>
+<li><a href="https://github.com/google/volley"><b>Volley</b></a>:Google's http library</li>
+
+
+</ul>
+
 
 
 </html>
