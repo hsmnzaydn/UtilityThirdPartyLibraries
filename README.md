@@ -16,11 +16,12 @@ This repo contains utility android third party libraries for android developers
 <h3>Textview</h3>
 <ul>
 <li><a href="https://github.com/HendraAnggrian/socialview"><b>Socialview</b></a>: You can use hashtag and mention on Textview  </li>
-
-
+</ul>
+<h3>View</h3>
+<ul>
+<li><a href="https://github.com/himanshu-soni/ChatMessageView"><b>ChatMessageView</b></a>:For view of message like whatsapp</li>
 
 </ul>
-
 <h3>Managing Image</h3>
 <ul>
 
