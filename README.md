@@ -43,6 +43,11 @@ Convert added images to appropriate dimensions</li>
 
 </ul>
 
+<h3>Bluetooth</h3>
+<ul>
+	<li><a href="https://github.com/MacroYau/Blue2Serial"><b>Blue2Serial</b></a>:A simple Android library for implementing Bluetooth Serial Port Profile (SPP) communication</li>
+</ul>
+
 
 
 </html>
