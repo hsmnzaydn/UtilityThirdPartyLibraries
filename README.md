@@ -16,6 +16,7 @@ This repo contains utility android third party libraries for android developers
 <h3>Textview</h3>
 <ul>
 <li><a href="https://github.com/HendraAnggrian/socialview"><b>Socialview</b></a>: You can use hashtag and mention on Textview  </li>
+<li><a href="https://github.com/armcha/AutoLinkTextView"><b>AutoLinkTextView</b></a>: Support mention,tel no,mail and url for Textview  </li>
 </ul>
 <h3>View</h3>
 <ul>
