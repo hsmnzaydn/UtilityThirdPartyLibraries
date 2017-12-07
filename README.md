@@ -50,5 +50,9 @@ Convert added images to appropriate dimensions</li>
 </ul>
 
 
+<h3>Utility Libraries</h3>
+<ul>
+	<li><a href="https://github.com/JakeWharton/butterknife"><b>Butterknife</b></a>Useful initialize library for varible </li>
+</ul>
 
 </html>
